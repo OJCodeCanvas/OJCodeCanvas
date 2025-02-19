@@ -28,7 +28,7 @@ This repository is a treasure trove of my coding experiments.  Expect to find a 
 
 ## Get in Touch (Let's Be Digital Pen Pals)
 
-* [Email](ojgraphicx@gmail.com)
+* [Email] (ojgraphicx@gmail.com)
 * [LinkedIn](Olive Lawal)
 * ...
 
