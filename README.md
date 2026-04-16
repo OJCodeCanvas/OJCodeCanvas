@@ -29,7 +29,7 @@ This repository is a treasure trove of my coding experiments.  Expect to find a 
 ## Get in Touch (Let's Be Digital Pen Pals)
 
 * [Email] (ojgraphicx@gmail.com)
-* [LinkedIn](Olive Lawal)
+* [LinkedIn]([Olive Lawal](https://www.linkedin.com/in/olive-lawal/))
 * ...
 
 Let's build a safer digital world together! 🛡️ ✨  And maybe brew some coffee with Python along the way. 😉
