@@ -1,35 +1,20 @@
 ## Hi there 👋
 
-<!--
-**OJCodeCanvas/OJCodeCanvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olaoluwa (Olive) Lawal
+IT Student @ VILNIUS TECH | Aspiring DevOps & Backend Engineer📍 Vilnius, Lithuania | 🌍 Open to remote opportunities in the EU
 
-Here are some ideas to get you started:
+👋 About Me
+I have 4+ years of experience in IT Operations, but I realized I don't just want to fix systems—I want to build and deploy them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# OJCodeCanva - My Digital Playground (Where Security is *Always* in Style)
+I am currently pivoting into Software Engineering and DevOps. My goal is to bridge the gap between development and operations by writing clean code and automating infrastructure. When I'm not working on Java enterprise apps, I'm contributing to GitHub projects and building tools with Python and JavaScript.
 
-Hey there, fellow explorers of the digital realm! I'm OJCodeCanva, an IT enthusiast with a serious passion for cybersecurity (because keeping the internet safe is kinda my jam). This repository is where I document my coding adventures, from tiny Python scripts that automate my coffee brewing (just kidding... mostly) to more ambitious projects aimed at building robust and secure systems.
+🛠️ Tech Stack & Tools
+Backend & Enterprise:• Java 21 | Spring Boot | SQLDevOps & Infrastructure:• Docker | Linux | Git/GitHub | CI/CD (Learning)Scripting & Automation:• Python | JavaScript (Used for automating IT ops, building internal tools, and web scripting)
 
-## About Me (aka The Code Wizard)
-
-I'm a firm believer that technology should be both powerful *and* secure.  I love diving into the nitty-gritty of IT, whether it's setting up a network or hunting down vulnerabilities.  Cybersecurity isn't just a job for me; it's a puzzle I enjoy solving.  And Python? Well, that's my magic wand.  I use it to conjure up everything from security tools to... well, let's just say "interesting" projects.
-
-## What Treasures You'll Find Here
-
-This repository is a treasure trove of my coding experiments.  Expect to find a mix of everything, from cybersecurity-focused projects to general IT explorations.  I'm always learning new things, so this space is constantly evolving.  Think of it as my digital laboratory, where I tinker with code and try to make the internet a slightly less scary place.
-
-## Get in Touch (Let's Be Digital Pen Pals)
-
-* [Email] (ojgraphicx@gmail.com)
-* [LinkedIn]([Olive Lawal](https://www.linkedin.com/in/olive-lawal/))
-* ...
-
-Let's build a safer digital world together! 🛡️ ✨  And maybe brew some coffee with Python along the way. 😉
+🚀 What I'm Up To
+🏢 Interning @ Coherent Solutions: Building enterprise-grade Java backend applications in an Agile Scrum environment.
+🐙 Open Source & Projects: Actively building containerized apps and contributing to projects on GitHub. Check out my pinned repositories below!
+📚 Continuously Learning: Currently diving deep into Docker, CI/CD pipelines, and Infrastructure as Code.
+📫 Let's Connect
+LinkedIn: Olaoluwa Olive Lawal
+Email: ojgraphicx@gmail.com
