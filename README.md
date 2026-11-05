@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Olaoluwa (Olive) Lawal
-IT Student @ VILNIUS TECH | Aspiring DevOps & Backend Engineer📍 Vilnius, Lithuania | 🌍 Open to remote opportunities in the EU
+IT Student | Junior Java Backend Developer | Spring Boot | PostgreSQL | Docker | Python | DevOps📍 Vilnius, Lithuania | 🌍 Open to remote opportunities in the EU
+
+I am an Information Technology student at VILNIUS TECH with practical experience contributing to Java backend applications using Spring Boot, PostgreSQL, JPA, REST APIs and automated testing. I enjoy designing backend functionality, implementing secure APIs, improving database architecture and using Docker to streamline development workflows. I am also expanding my DevOps skills through hands-on learning and automation projects.
 
 👋 About Me
 I have 4+ years of experience in IT Operations, but I realized I don't just want to fix systems—I want to build and deploy them.
